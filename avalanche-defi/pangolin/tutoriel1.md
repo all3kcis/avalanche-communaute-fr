@@ -18,7 +18,7 @@ Avant toute chose, Pangolin est utilisable via Metamask, mais sur le réseau Ava
 
 Pour effectuer un échange, rien de plus simple : il vous faudra simplement vous rendre [sur l’interface](https://app.pangolin.exchange/#/swap) et configurer votre swap en fonction de vos besoins :
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 ### Apporter de la liquidité
 
@@ -40,7 +40,7 @@ Maintenant que vous avez vos jetons de liquidité, vous allez pouvoir prétendre
 
 Vous n’avez plus qu’à retrouver votre pool et à déposer vos tokens au sein de cette dernière !
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 **Et voilà, vos premiers PNG seront bientôt à vous !**
 

@@ -58,7 +58,7 @@ Pour faire des requêtes sur un contrat, nous avons besoin de son ABI, c'est com
 
 Pour le récupérer, vous pouvez aller sur: [https://cchain.explorer.avax.network/address/0x9EE0a4E21bd333a6bb2ab298194320b8DaA26516/contracts](https://cchain.explorer.avax.network/address/0x9EE0a4E21bd333a6bb2ab298194320b8DaA26516/contracts) et cliquer sur "copy ABI".
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%288%29%20%281%29.png)
 
 Vous pouvez le coller sur un nouveau fichier: pool.json
 

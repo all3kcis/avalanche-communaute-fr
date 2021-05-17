@@ -13,8 +13,8 @@
 * [Penguin Finance](avalanche-defi/penguin-finance.md)
 * [Snowball finance](avalanche-defi/snowball-finance.md)
 * [Baguette](avalanche-defi/baguette.md)
-* [Pangolin](avalanche-defi/projet1/README.md)
-  * [Utiliser Pangolin](avalanche-defi/projet1/tutoriel1.md)
+* [Pangolin](avalanche-defi/pangolin/README.md)
+  * [Utiliser Pangolin](avalanche-defi/pangolin/tutoriel1.md)
 
 ## Avalanche Dev
 
