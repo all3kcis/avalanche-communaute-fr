@@ -9,7 +9,7 @@
 * [Ajouter de la liquidité sur un DEX](tutoriels/tuto2.md)
 
 ## Avalanche DeFi
-
+* [Test](avalanche-defi/test.md)
 * [Penguin Finance](avalanche-defi/penguin-finance.md)
 * [Snowball finance](avalanche-defi/snowball-finance.md)
 * [Baguette](avalanche-defi/baguette.md)
