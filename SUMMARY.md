@@ -10,7 +10,7 @@
 
 ## Yield
 * [Penguin Finance](avalanche-defi/penguin-finance.md) 
-* [Snowball finance](avalanche-defi/snowball-finance.md) <img src="icons/discord.svg" alt="drawing" style="width:34px;"/>
+* [Snowball finance](avalanche-defi/snowball-finance.md)
 * [YieldYak](avalanche-defi/yieldyak.md)
 
 ## Soon
